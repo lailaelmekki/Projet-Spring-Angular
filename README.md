@@ -22,17 +22,24 @@ Test des Web Services RESTful :Pour tester les web services RESTful, Swagger a �
 Exécution du Projet
 Exécuter la classe principale GestionBanqueApplication.java.
 Accéder à l'application via l'URL : http://localhost:8081
-part 2 frontend :
-interface d'authentification 
+ 
+
+
+
 <img width="471" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/b4dc5f94-b107-4711-9dc6-912c02d71b77">
-interface pour chercher les clients :
+
+
 <img width="1078" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/29e51e50-a0e4-4a99-bf0d-d475858d5600">
-en cliquant sur un client on accede à des informations sur son compte : 
+
+
 <img width="1076" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/fd0b1678-18c7-4e1c-aa2f-c73ebc808fdc">
-voici l'interface pour ajouter un nouveau client 
+ 
+
 
 <img width="473" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/ac0e4510-4a0c-41bb-a44d-110bd6d19a02">
-voici l'interface pour voir les informations concernant un compte en saisissant acount_id ainsi la possibilité d'effectuer des opérations 
+
+
+
 <img width="1062" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/6cd62814-673a-4b5a-aad0-e1cfa68ba213">
 
 
