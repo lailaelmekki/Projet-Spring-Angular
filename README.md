@@ -29,7 +29,9 @@ Accéder à l'application via l'URL : http://localhost:8081
 <img width="471" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/b4dc5f94-b107-4711-9dc6-912c02d71b77">
 
 
+
 <img width="1078" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/29e51e50-a0e4-4a99-bf0d-d475858d5600">
+
 
 
 <img width="1076" alt="image" src="https://github.com/lailaelmekki/Projet-Spring-Angular/assets/133209726/fd0b1678-18c7-4e1c-aa2f-c73ebc808fdc">
